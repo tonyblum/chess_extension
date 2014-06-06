@@ -1,0 +1,165 @@
+#chess_board_dummy {
+    background-color: white !important;
+}
+.chess_board {
+    background-color: white !important;
+    z-index: 999999;
+    position: relative;
+}
+#main_bc {
+    background-color: black !important;
+}
+.boardContainer {
+    background-color: white !important;
+    z-index: -1;
+    position: relative;
+}
+#layout_top_container {
+    display: none;
+}
+.players {
+    background-color: white;
+    font-size: 80%;
+}
+.playerscore {
+    display: none;
+}
+#flag.us {
+    size: 300%;
+}
+.playerrating {
+    font-size: 22px;
+}
+#main_bc_header {
+    display: none;
+}
+.playername {
+    position: relative;
+    font-size: 22px !important;
+    font-family: "Courier";
+}
+.playerimg {
+    height: 50px !important;
+    width: 50px !important;
+    right: 104% !important;
+    position: absolute !important;
+    z-index: 20;
+    display: block;
+    display: none;
+}
+#new_game_pane {
+    background-color: white !important;
+}
+.brd {
+    left: 20px;
+    text-align: center;
+}
+.timerin {
+    size: 500% !important;
+}
+.timerin.active {
+    size: 500% !important;
+}
+#layout_sidebar_tabs_container {
+    height: 10px;
+}
+#new_game_pane_create_button {
+    visibility: visible;
+    z-index: 999;
+    position: relative;
+}
+.tabLabel {
+    background-color: white;
+}
+#newgamebc {
+    background-color: white !important;
+}
+#master_bc {
+    background-color: white !important;
+}
+#myDivId {
+    font-size: 12px;
+    background-color: white !important;
+}
+#myDivId2 {
+    font-size: 12px;
+}
+#myDivId3 {
+    font-size: 17px;
+}
+#myDivId4 {
+    font-size: 17px;
+}
+.clearfix.bottom-12 {
+    background-color: #F0F0F0 !important;
+}
+clearfix.bottom-12 p p {
+    font-size: 9px !important;
+}
+#main-avatar {
+    /*border-radius: 50%;*/
+    hieght: 35px !important;
+}
+#myImg1 {
+    z-index: -5;
+}
+#myDivId5 img {
+    background-color: transparent;
+    width: 130px !important;
+    height: 130px !important;
+    border-radius: 50%;
+}
+#myDivId6 img {
+    background-color: transparent;
+    width: 130px !important;
+    height: 130px !important;
+    border-radius: 50%;
+}
+#friendsectionpanel {
+    z-index: 99999 !important;
+}
+.newGameBottomLink {
+    z-index: 99999 !important;
+}
+/*
+*****************************************************************************************
+ HIDE ELEMENTS
+*****************************************************************************************
+ */
+ 
+hr.clearfix.bottom-12 {
+    display: none;
+}
+.ctype.bflip {
+    display: none;
+}
+.digitTabContent {
+    display: none !important;
+}
+#game_container_splitter {
+    display: none !important;
+}
+.layoutBottomLinks {
+    display: none;
+}
+#tabLabel {
+    display: none;
+}
+/*
+.newGameBottomLink{ 
+    display: none; 
+} 
+  
+#friendsectionpanel{ 
+    display: none; 
+} 
+*/
+ 
+.cappytop_control {
+    display: none;
+}
+/*  
+#seekGraph{ 
+    display: none; 
+} 
+*/
